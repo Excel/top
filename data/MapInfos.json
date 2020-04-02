@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Upstairs","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Downstairs","order":2,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":3,"expanded":false,"name":"Shop","order":3,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":4,"expanded":false,"name":"Alley","order":4,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":5,"expanded":false,"name":"Field","order":5,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":6,"expanded":false,"name":"Dungeon","order":6,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":7,"expanded":false,"name":"Club","order":7,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":8,"expanded":false,"name":"Parallel Universe","order":8,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":9,"expanded":false,"name":"Hot Springs","order":9,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":10,"expanded":false,"name":"Choco Queen Island","order":10,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":11,"expanded":false,"name":"Demon Hospital","order":11,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":12,"expanded":false,"name":"Town","order":12,"parentId":0,"scrollX":648,"scrollY":359.4},
+{"id":13,"expanded":false,"name":"Final Dungeon","order":13,"parentId":0,"scrollX":648,"scrollY":359.4}
+]
