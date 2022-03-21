@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SL</title>
+  </head>
+  <body>
+    <script>
+      function redirectFunc() {
+	var searched = window.location.search;
+	console.log(searched);
+	if (searched === '') {
+		window.location.replace("http://sl.noiszgame.com");
+	}
+	else {
+		var base = "starlivhtdl://deeplink";
+		var newUrl = base+searched;
+			window.location.replace(newUrl);
+			console.log(newUrl);
+		close();
+	 }
+	}
+	document.onload = redirectFunc();
+    </script>
+  </body>
+</html>
